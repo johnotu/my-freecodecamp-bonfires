@@ -6,4 +6,5 @@ Just realised I can get help with making the codes I've written for the Bonfires
 
 So, if you know a better way to get the same thing done, you are free to laugh but don't fail to send me a pull request. Thanks in advance!
 
-John Otu (@john_otu)
+John Otu
+[@john_otu](https://twitter.com/john_otu)
